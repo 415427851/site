@@ -1,5 +1,5 @@
 baseURL = "https://415427851.github.io/site/"
-title = "语音博客"
+title = "雷哥的米仓"
 hasCJKLanguage = true
 defaultContentLanguage = "zh"
 paginate = 10
@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
-  title = "语音博客"
+  title = "雷哥的米仓"
   description = "这里的每篇文章，都来自一段语音。"
   DateFormat = "2006年1月2日"
   defaultTheme = "auto"
